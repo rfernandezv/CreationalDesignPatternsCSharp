@@ -1,5 +1,5 @@
 # CreationalDesingPatterns CSharp
-# Richar MArvin Fernández Vílchez
+# Richar Marvin Fernández Vílchez
 
 Migration of:
 - Prototype
